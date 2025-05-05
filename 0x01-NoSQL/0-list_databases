@@ -1,1 +1,3 @@
+// Shows all databases in mongosh
 show dbs
+
